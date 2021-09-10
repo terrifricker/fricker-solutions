@@ -1,0 +1,22 @@
+:root {
+    --main-color: #ffaa00;
+    --main-light: #ffbf40;
+    --main-lighter: #fdda93;
+    --main-lightest:#fff9ed;
+    --main-dark: #bd7e02;
+    --main-darker: #825700;
+    --main-darkest: #4a3100;
+    --wordpress-main: #c97332;
+    --red-orange: #ff6f00;
+    --red-orange-light: #ff9645;
+    --red-orange-lighter: #ffbe8c;
+    --red-orange-lightest: #ffecde;
+    --red-orange-dark: #c45500;
+    --red-orange-darker: #823800;
+    --red-orange-darkest: #2e1400;
+    --light-shade: #F4F4F1;
+    --light-accent: #27AECD;
+    --main-brand: #EF602A;
+    --dark-accent: #EBBA3A;
+    --dark-shade: #272B2F;
+}

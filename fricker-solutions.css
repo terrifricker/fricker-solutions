@@ -26,3 +26,12 @@ body {
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+header {
+    width: 100vw;
+    height: 10rem;
+    padding: 1rem;
+    background-color: var(--red-orange);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

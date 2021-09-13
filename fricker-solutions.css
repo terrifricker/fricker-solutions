@@ -54,4 +54,21 @@ header {
 .nav a:active {
     color: gray;
 }
+#one {
+    width: 100vw;
+    min-height: calc(100vh-10rem);
+    position: relative;
+    background-color: var(--light-accent);
+}
+#two {
+    width: 75vw;
+    height: 75vh;
+    background-color: var(--dark-shade);
+}
+#three {
+    width: 100vw;
+    height: 3rem;
+    position: relative;
+    bottom: 10rem;
+    background-color: var(--dark-accent);
 }
